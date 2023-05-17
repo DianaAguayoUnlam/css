@@ -1,14 +1,11 @@
 
 /* Cambio color botones y progress bar */
-:root{
-	--color-primary: #1ce91c!important
-}
 
 .btn-primary {
-    background-color: var(--color-primary)!important;
-    border-color: var(--color-primary)!important;
+    background-color: #1ce91c!important;
+    border-color: #1ce91c!important;
 }
 
 .progress {
-    --bs-progress-bar-bg: var(--color-primary)!important;
+    --bs-progress-bar-bg: #1ce91c!important;
 }
